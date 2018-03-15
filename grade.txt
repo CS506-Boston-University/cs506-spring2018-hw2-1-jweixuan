@@ -1,0 +1,41 @@
+// a)
+
+1) Input to clusterings have both location + categories; 0.5/0.5 
+
+2) Heuristic to find number of clusters; 0.5/0.5 
+
+3) Output meaningful cluster labels; 1/1 
+
+4) Run kmeans + hierarchical + gmm; 1/1
+
+
+
+// b)
+
+5) Explanation of parameters; 1/1
+
+
+
+// c)
+
+6) Clusters have little overlap; 1/1 
+
+7) Visualization has cluster labels; 1/1 
+
+
+
+// d)
+
+8) Computed distances from centroid and found points further away 1/1
+
+9) Outliers for K-means; 1/1 
+
+10) Outliers for Hierarchical and GMM 1/1: 
+
+
+// e)
+
+11) Brief explanation and result interpretation of 3 clustering methods implemented above; 0.5/1
+
+
+Total: 9.5/10
